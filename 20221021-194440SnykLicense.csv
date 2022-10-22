@@ -1,0 +1,52 @@
+AFL-2.1 OR BSD-2-Clause,none
+AFL-2.1 OR BSD-3-Clause,none
+Apache-2.0 OR LGPL-2.1 OR MPL-1.1,none
+Apache-2.0 OR MIT,none
+BSD-2-Clause OR MIT OR Apache-2.0,none
+CC-BY-4.0 AND MIT,none
+CDDL-1.1 OR GPL-2.0,none
+CDDL-1.1 OR GPL-2.0-with-classpath-exception,none
+CDDL-1.1 OR GPL-3.0,none
+GPL-2.0 OR LGPL-2.1 OR UnboundID-LDAP-SDK-Free,none
+GPL-3.0 OR LGPL-3.0,medium
+MIT AND BSD-3-Clause,none
+MIT AND CC-BY-3.0,none
+MIT AND Zlib,none
+MIT OR Apache-2.0,none
+MIT OR CC0-1.0,none
+MIT OR WTFPL,none
+MIT OR X11,none
+WTFPL OR MIT,none
+0BSD,none
+ANTLR-PD,none
+Apache-2.0,none
+Apache-2.0 AND W3C,none
+BSD-2-Clause,none
+BSD-3-Clause,none
+BSD-3-Clause AND MIT,none
+BSD-3-Clause OR MIT,none
+CC-BY-3.0,none
+CC-BY-4.0,none
+CC0-1.0,none
+CDDL-1.0,medium
+CDDL-1.1,none
+CDDL-1.1 OR GPL-2.0-with-classpath-exception,none
+Dom4J,none
+EPL-1.0,medium
+EPL-1.0 OR EDL-1.0,none
+EPL-1.0 OR LGPL-2.1,medium
+GPL-2.0,high
+GPL-3.0,high
+GPL-3.0 OR MIT,none
+ISC,none
+LGPL-2.0,medium
+LGPL-2.1,medium
+LGPL-3.0,medium
+MIT,none
+MIT OR Apache-2.0,none
+MPL-2.0,medium
+Public-Domain,none
+Unknown,none
+Unlicense,none
+WTFPL,none
+WTFPL OR ISC,none
